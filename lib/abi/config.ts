@@ -1,0 +1,9 @@
+// mainnet
+export const USDC_ADDRESS = '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913';
+
+//sepolia
+//export const USDC_ADDRESS = '0x036CbD53842c5426634e7929541eC2318f3dCF7e';
+
+export const MAIN_ADDRESS = "0xaabe76d29cbc05a95557a0db880d83d9bbeeed03";
+
+export const RECIPIENT_ADDRESS = "0x3b4f0135465d444a5bd06ab90fc59b73916c85f5";
